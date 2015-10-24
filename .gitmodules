@@ -1,0 +1,4 @@
+[submodule "packages/meteor-lodash-replace-underscore"]
+	path = packages/meteor-lodash-replace-underscore
+	url = https://github.com/rclai/meteor-lodash-replace-underscore.git
+	ignore = dirty
